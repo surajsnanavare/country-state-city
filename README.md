@@ -6,6 +6,7 @@ Library is forked from https://www.npmjs.com/package/country-state-city. This ve
 
 # Install
 `npm i country-state-city-usa`
+
 `yarn add country-state-city-usa --dev`
 
 # Usage
