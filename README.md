@@ -5,7 +5,7 @@ Basic library for Country, State and City
 Library is forked from https://www.npmjs.com/package/country-state-city. This version of library is updated for United state.
 
 # Install
-`npm i country-state-city-2020`
+`npm i country-state-city-usa`
 
 # Usage
 
@@ -13,15 +13,15 @@ Library is forked from https://www.npmjs.com/package/country-state-city. This ve
   - ES6 Module usage
    
      ```js
-     import csc from 'country-state-city-2020'
+     import csc from 'country-state-city-usa'
 
      // Import Interfaces`
-     import { ICountry, IState, ICity } from 'country-state-city-2020'
+     import { ICountry, IState, ICity } from 'country-state-city-usa'
      ```
   - AMD Module usage
   
     ```js
-    let csc = require('country-state-city-2020').default
+    let csc = require('country-state-city-usa').default
     ```
 
 
@@ -30,13 +30,13 @@ Library is forked from https://www.npmjs.com/package/country-state-city. This ve
   - ES6 Module usage
    
      ```js
-     import csc from 'country-state-city-2020'
+     import csc from 'country-state-city-usa'
      ```
 
   - AMD Module usage
   
     ```js
-    let csc = require('country-state-city-2020')
+    let csc = require('country-state-city-usa')
     ```
 
 # Docs
