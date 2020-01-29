@@ -2,12 +2,10 @@ country-state-city
 ==============================
 Basic library for Country, State and City
 
-Data taken from:
-
-https://github.com/hiiamrohit/Countries-States-Cities-database
+Library is forked from https://www.npmjs.com/package/country-state-city. This version of library is updated for United state.
 
 # Install
-`npm i country-state-city`
+`npm i country-state-city-2020`
 
 # Usage
 
@@ -15,15 +13,15 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
   - ES6 Module usage
    
      ```js
-     import csc from 'country-state-city'
+     import csc from 'country-state-city-2020'
 
      // Import Interfaces`
-     import { ICountry, IState, ICity } from 'country-state-city'
+     import { ICountry, IState, ICity } from 'country-state-city-2020'
      ```
   - AMD Module usage
   
     ```js
-    let csc = require('country-state-city').default
+    let csc = require('country-state-city-2020').default
     ```
 
 
@@ -32,13 +30,13 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
   - ES6 Module usage
    
      ```js
-     import csc from 'country-state-city'
+     import csc from 'country-state-city-2020'
      ```
 
   - AMD Module usage
   
     ```js
-    let csc = require('country-state-city')
+    let csc = require('country-state-city-2020')
     ```
 
 # Docs
