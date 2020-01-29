@@ -1,6 +1,6 @@
 {
   "name": "country-state-city-usa",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Library for fetching Country, its States and Cities - updated for United state.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
